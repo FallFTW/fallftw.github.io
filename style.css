@@ -6,5 +6,8 @@ body {
     width: 100px;
 }
 p {
-    color: white;
+    color: gray;
+}
+.hello {
+    color: gray;
 }
