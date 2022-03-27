@@ -11,3 +11,7 @@ p {
 .hello {
     color: gray;
 }
+footer {
+    display: inline;
+    color:gray;
+}
