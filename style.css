@@ -21,7 +21,7 @@ p {
 footer {
     display: inline;
     color:gray;
-    margin-top: auto;
+    margin: bottom;
 }
 p, footer, .p {
     font-family: Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
