@@ -26,12 +26,30 @@ footer {
 p, footer, .p {
     font-family: Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
 }
-.icons {
-    height: 30px;
-    width: 30px;
-    padding: 5px;
-    background-color: white;
-    border-radius: 50%;
-    border: 1px solid grey;
-    padding: 10px;
-}
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+  }
+  
+  /* Add a hover effect if you want */
+  .icons:hover {
+    opacity: 0.7;
+  }
+  
+  /* Set a specific color for each brand */
+  
+  /* Facebook */
+  .fa fa-facebook {
+    background: #3B5998;
+    color: white;
+  }
+  .fa-twitter {
+    background: #55ACEE;
+    color: white;
+  }
+  .fa-skype {
+    background: #00aff0;
+    color: white;
