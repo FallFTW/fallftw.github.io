@@ -3,7 +3,7 @@
 
 
 body {
-    background-color: black;
+    background-color: rgb(0, 0, 0);
     min-height: 100vh;
     display: flex;
     flex-direction: column;
@@ -18,30 +18,4 @@ p {
 .hello {
     color: gray;
 }
-footer {
-    display: inline;
-    color:gray;
-    position: bottom;
-}
-p, footer, .p {
-    font-family: Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
-}
-.fa, .fa:visited, .fa:hover, .fa:active {
-    color: inherit;
-  }
-.fa {
-    padding: 20px;
-    font-size: 30px;
-    width: 50px;
-    text-align: center;
-    text-decoration: none;
-    display: inline;
-
-  }
-  
-  /* Add a hover effect if you want */
-  .fa:hover {
-    opacity: 0.7;
-  }
-
 
