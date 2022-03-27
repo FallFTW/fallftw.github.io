@@ -26,3 +26,8 @@ footer {
 p, footer, .p {
     font-family: Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
 }
+.icons {
+    height: 30px;
+    width: 30px;
+    display: inline-block;
+}
