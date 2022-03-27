@@ -1,7 +1,10 @@
 body {
-    background-color: antiquewhite;
+    background-color: black;
 }
 .gif {
     height: 100px;
     width: 100px;
+}
+p {
+    color: white;
 }
