@@ -31,4 +31,8 @@ p, footer, .p {
     max-width: 30px;
     display: inline;
     padding: 5px;
+    background-color: white;
+    border-radius: 50%;
+    border: 1px solid grey;
+    padding: 10px;
 }
