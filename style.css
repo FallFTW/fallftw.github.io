@@ -32,6 +32,7 @@ p, footer, .p {
     width: 50px;
     text-align: center;
     text-decoration: none;
+    display: inline-block;
   }
   
   /* Add a hover effect if you want */
