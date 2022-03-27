@@ -21,7 +21,7 @@ p {
 footer {
     display: inline;
     color:gray;
-    margin: bottom;
+    position: bottom;
 }
 p, footer, .p {
     font-family: Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
@@ -35,11 +35,13 @@ p, footer, .p {
     width: 50px;
     text-align: center;
     text-decoration: none;
-    display: inline-block;
+    display: inline;
+
   }
   
   /* Add a hover effect if you want */
   .fa:hover {
     opacity: 0.7;
   }
+
 
