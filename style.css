@@ -29,5 +29,6 @@ p, footer, .p {
 .icons {
     height: 30px;
     width: 30px;
-    display: inline-block;
+    display: inline;
+    padding: 5px;
 }
