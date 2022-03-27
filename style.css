@@ -26,6 +26,9 @@ footer {
 p, footer, .p {
     font-family: Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
 }
+.fa, .fa:visited, .fa:hover, .fa:active {
+    color: inherit;
+  }
 .fa {
     padding: 20px;
     font-size: 30px;
@@ -36,7 +39,7 @@ p, footer, .p {
   }
   
   /* Add a hover effect if you want */
-  .icons:hover {
+  .fa:hover {
     opacity: 0.7;
   }
   
